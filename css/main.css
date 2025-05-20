@@ -3724,6 +3724,7 @@ select {
     margin-right: auto;
   }
 }
+
 /*!========================================================================
  * 50. Slider Headings
  * ======================================================================!*/
@@ -5075,8 +5076,18 @@ only-mobile-title {
   }
 }
 
-@media screen and (max-width: 768px) {
-  .section-fullheight {
-    min-height: 100svh; /* usa "svh" en vez de "vh" */
+
+@media (max-width: 991px) {
+  .swiper-slide,
+  .slider-headings__slide,
+  .slider-halfscreen,
+  .slider-headings {
+    width: 100vw !important;
+    min-width: 100vw !important;
+    max-width: 100vw !important;
+    height: 100vh !important;
+    min-height: 100vh !important;
+    max-height: 100vh !important;
+    box-sizing: border-box;
   }
 }
