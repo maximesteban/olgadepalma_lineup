@@ -5091,3 +5091,140 @@ only-mobile-title {
     box-sizing: border-box;
   }
 }
+
+
+
+
+/*BG MOVIL*/
+
+@media screen and (max-width: 768px) {
+  .aicha {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .amaral {
+    background-position: 220% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .beele {
+    background-position: 20% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .camilo {
+    background-position: 20% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .damiano {
+    background-position: 20% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .jlo {
+    background-position: 45% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .kany {
+    background-position: 65% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .leiva {
+    background-position: 30% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .kali {
+    background-position: 45% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .luz {
+    background-position: 45% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .maluma {
+    background-position: 60% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .manolo {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .turizo {
+    background-position: 70% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .milo {
+    background-position: 55% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .ozuna {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .mami {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .raw {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .residente {
+    background-position: 30% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .ricky {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .rozalen {
+    background-position: 30% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .enrique {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .twin {
+    background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
+  }
+}
