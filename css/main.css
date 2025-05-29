@@ -4858,6 +4858,7 @@ a:focus {
 .figure-property {
   width: 100%;
   text-align: left;
+  margin-top: -20px;
 }
 
 .figure-property__content,
@@ -5228,3 +5229,33 @@ only-mobile-title {
     background-position: 40% center !important; /* Ajusta según lo que quieras mostrar */
   }
 }
+
+/*MOV WEB*/
+@media screen and (max-width: 768px) {
+  #a2.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/villaverde-mobile.jpeg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+
+
+
+  #c55.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/luzgaggi-mobile.jpeg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+
+  #c26.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/rozalen-mobile.jpeg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+
+  #c47.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/jlo-mobile.jpeg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+}
+
