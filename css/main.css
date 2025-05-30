@@ -5257,5 +5257,31 @@ only-mobile-title {
     background-position: center !important;
     background-size: cover !important;
   }
-}
 
+
+  #c50.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/kani-mobile.jpg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+  #c9.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/bbtricks-mobile.jpg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+  #c7.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/mena-mobile.jpg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  }
+  #c42.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/emilia-mobile.jpg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+  } 
+  #c3.slider-headings__slide {
+    background-image: url('/img/fotos_mobile/abraham-mobile.jpeg') !important;
+    background-position: center !important;
+   background-size: cover !important;
+  }
+}
