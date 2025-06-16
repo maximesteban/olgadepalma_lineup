@@ -5288,7 +5288,7 @@ only-mobile-title {
 
 
 .coming-soon-slide {
-  background-color: black;
+  background: url(/img/fondo.jpg);
   color: white;
   display: flex;
   align-items: center;
@@ -5324,4 +5324,19 @@ only-mobile-title {
   .submensaje {
     font-size: 0.9rem;
   }
+}
+
+
+/* Center the logo within the coming-soon-content */
+.coming-soon-content .logo {
+  display: block;
+  margin: 20px auto; /* Centers the logo horizontally */
+  gap: 50px; /* Adjust the gap between logo and text */;
+  max-width: 1000px; /* Adjust the size if needed */
+  text-shadow: #000000 0px 0px 20px 0px;
+}
+
+.talent-category-last {
+  display: block; /* Ensures it behaves like a block element */
+  margin-top: 30px; /* Adds space above the element */
 }
